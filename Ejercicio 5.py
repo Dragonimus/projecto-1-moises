@@ -1,9 +1,9 @@
 datos_personales = {
-    'nombre': 'Matias',
-    'edad': 17,
-    'ciudad': 'Madrid'
+    'nombre': 'alejo',
+    'edad': 19,
+    'ciudad': 'Mongolia'
 }
 print("Nombre:", datos_personales['nombre'])
-datos_personales['edad'] = 17
-datos_personales['género'] = 'Creemos que masculino'
+datos_personales['edad'] = 19
+datos_personales['género'] = 'Creemos que femenino'
 print("Datos personales actualizados:", datos_personales)
